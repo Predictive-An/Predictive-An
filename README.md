@@ -4,7 +4,7 @@ Hi 👋 My name is Nana Firdausi Abdulrahim
 Data Analyst
 ------------
 
-Data Analyst with a strong foundation in Microsoft Excel, Power BI, Power Apps, and SQL. I am actively pursuing a transition to a Data Science role at ArewaDS.
+Data Analyst with a strong foundation in Microsoft Excel, Power BI, Python, and SQL. I am actively taking on projects and entry level roles.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [nanafirdausiabd7@gmail.com](mailto:nanafirdausiabd7@gmail.com)
